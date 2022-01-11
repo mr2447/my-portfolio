@@ -33,4 +33,4 @@
   GitHub: mr2447
   Email: marvin.ren@yahoo.com
   ## Deployment
-  This section has moved here: [https://mr2447.github.io/portfolio-react/](https://mr2447.github.io/portfolio-react/)# marvin-ren-portfolio
+  This section has moved here: [https://mr2447.github.io/my-portfolio/](https://mr2447.github.io/portfolio-react/)# marvin-ren-portfolio
